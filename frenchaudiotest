@@ -1,0 +1,27 @@
+const questions = [
+    {
+        audio: "https://www.soundjay.com/human/sounds/bonjour-1.mp3",
+        question: "What did the speaker say?",
+        options: ["Bonjour", "Bonsoir", "Bonne nuit", "Salut"],
+        answer: "Bonjour"
+    },
+    {
+        audio: "https://www.soundjay.com/weather/sounds/rain-01.mp3",
+        question: "What kind of weather is it?",
+        options: ["Il pleut", "Il fait beau", "Il neige", "Il y a du vent"],
+        answer: "Il pleut"
+    },
+    {
+        audio: "https://www.soundjay.com/human/sounds/hungry-man-01.mp3",
+        question: "What is the speaker expressing?",
+        options: ["J’ai faim", "J’ai soif", "Je suis fatigué", "Je suis heureux"],
+        answer: "J’ai faim"
+    },
+    {
+        audio: "https://www.soundjay.com/button/sounds/button-16.mp3",
+        question: "How did the speaker respond?",
+        options: ["Oui, bien sûr", "Non, jamais", "Peut-être", "Je ne sais pas"],
+        answer: "Oui, bien sûr"
+    }
+];
+
